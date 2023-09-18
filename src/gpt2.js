@@ -126,9 +126,9 @@ function addStats(target) {
 }
 
 const totalParams = {
-    'gpt2': 124439808,
-    'gpt2-medium': 355355392,
-    'gpt2-large': 774650112,
+    'hidude562/OpenMusenet-2.11-3M': 3145728,
+    'hidude562/OpenMusenet-2.11-S': 82323968,
+    'hidude562/OpenMusenet-2.11-M': 124439808,
 }
 
 async function gpt2(params) {
